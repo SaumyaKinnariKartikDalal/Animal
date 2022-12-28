@@ -1,0 +1,16 @@
+body{
+    background-color: lightgreen;
+}
+
+.copy_right_footer{
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: yellow;
+    color: crimson;
+    font-size: 20px;
+    line-height: 2;
+    font-style: oblique;
+    font-weight: bold;
+}
