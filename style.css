@@ -14,3 +14,25 @@ body{
     font-style: oblique;
     font-weight: bold;
 }
+
+header_div {
+    background: white;
+    color: #ff0000; 
+} 
+
+.header_div p{
+    letter-spacing: 2px;
+    color: blueviolet;  
+    font-size: 25px;
+    font-weight: bolder; 
+    font-family: 'Dancing Script', cursive;
+} 
+
+.main_div button{ 
+    width: 150px;
+    letter-spacing: 2.5px;
+    margin-top: 50px;  
+    font-weight: bold; 
+    font-size: 35px;
+    font-family: 'Moon Dance', cursive;
+}
